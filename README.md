@@ -17,7 +17,12 @@ For this project, you will write a Packer template and a Terraform template to d
 4. Install [Terraform](https://www.terraform.io/downloads.html)
 
 ### Instructions
-**Your words here**
+#### Step 1:starting by cloning the repository to your local machine to access all the necessary configuration files.
+ ```sh
+git clone <repository-url>
+```
+
+
 
 ### Output
 **Your words here**
